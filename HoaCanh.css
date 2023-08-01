@@ -1,0 +1,98 @@
+#div_tong{
+    width: 100%;
+    height: 700px;
+    /* background: red; */
+}
+#div_tren{
+    width: 100%;
+    height: 10%;
+    font-size: 30px;
+    /* background: palegoldenrod; */
+}
+#div_duoi{
+    width: 100%;
+    height: 90%;
+    /* background: yellow; */
+}
+#div_tren >.trai{
+    width: 40%;
+    height: 100%;
+    float: left;
+    /* background: palegreen; */
+}
+#div_tren >.dau{
+    width: 60%;
+    height: 100%;
+    text-align: right;
+    float: left;
+    /* background: goldenrod; */
+}
+#div_tren >.dau >.tren{
+    width: 100%;
+    height: 50%;
+    text-align: right;
+    /* background: red; */
+}
+#div_tren >.dau >.duoi{
+    width: 100%;
+    height: 50%;
+    /* background: blue; */
+}
+#div_duoi_trai{
+    width: 19%;
+    height: 100%;
+    float: left;
+    border-right: 5px solid green;
+    /* background: red; */
+}
+#div_duoi_giua{
+    width: 62%;
+    height: 100%;
+    float: left;
+    /* background: palegoldenrod; */
+}
+#div_duoi_phai{
+    width: 18%;
+    height:100%;
+    float: left;
+    border-left: 5px dotted green;
+    /* background: aqua; */
+}
+#div_duoi_trai >.tren{
+    width: 100%;
+    height: 35%;
+    /* background: red; */
+}
+#div_duoi_trai >.duoi{
+    width: 100%;
+    height: 65%;
+    /* background: palegoldenrod; */
+}
+#div_duoi_giua >.trai{
+    width: 15%;
+    height: 100%;
+    float: left;
+    /* background: aqua; */
+}
+#div_duoi_giua >.phai{
+    width: 85%;
+    height: 100%;
+    float: left;
+    /* background: rgb(94, 6, 27); */
+}
+#div_duoi_phai >.duoi{
+    text-align: center;
+}
+div.phai img{
+    float: right;
+}
+
+a{
+    text-decoration:none;
+}
+#div_form{
+    background-color: #63a877;
+    text-align: center;
+    margin: 0;
+    width: 100%;
+}
